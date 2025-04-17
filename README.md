@@ -1,4 +1,4 @@
-## Customer Review Sentiment Analysis 🚀
+# Customer Review Sentiment Analysis 🚀
 
 ## 📌 About This Project
 This project analyzes Amazon Fine Food Reviews to classify customer sentiment as **Positive, Negative, or Neutral**.  
