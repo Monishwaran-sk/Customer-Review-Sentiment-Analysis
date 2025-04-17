@@ -1,4 +1,4 @@
-📂 Scripts for Customer Review Sentiment Analysis  
+## 📂 Scripts for Customer Review Sentiment Analysis  
 
 This folder contains all Python scripts used in the project.  
 
@@ -13,7 +13,7 @@ This folder contains all Python scripts used in the project.
 
 ---
 
-🚀 How to Run These Scripts?**  
+### 🚀 How to Run These Scripts?**  
 
 Run the scripts in this order:  
 
