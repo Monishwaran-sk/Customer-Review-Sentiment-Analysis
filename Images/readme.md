@@ -1,8 +1,8 @@
-📁 Images
+## 📁 Images
 
 This folder contains all the visual outputs used in the **Customer Review Sentiment Analysis Dashboard** project.
 
-## 🖼️ Description of Each Image
+### 🖼️ Description of Each Image
 
 | Image Name                          | Description |
 |------------------------------------|-------------|
