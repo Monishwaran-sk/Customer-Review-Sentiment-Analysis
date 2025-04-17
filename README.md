@@ -1,51 +1,59 @@
-Customer Review Sentiment Analysis 🚀
+## Customer Review Sentiment Analysis 🚀
 
-📌 About This Project
+## 📌 About This Project
 This project analyzes Amazon Fine Food Reviews to classify customer sentiment as **Positive, Negative, or Neutral**.  
 It includes **data cleaning, sentiment analysis (TextBlob), and visualizations (Matplotlib & Seaborn).**
 
-🛠️ Tools Used
+### 🛠️ Tools Used
 - Python 🐍
 - Pandas, Numpy
 - Matplotlib, Seaborn 📊
 - TextBlob (Sentiment Analysis) 💬
 - Jupyter Notebook
 
-🔍 Key Insights
+### 🔍 Key Insights
 ✅ Majority of reviews are **positive**  
 ✅ Negative reviews often mention **"refund"**, **"poor quality"**, etc.  
 ✅ Some products receive **mixed reviews**, requiring further analysis  
 
-🧠 Project Solution
-🔍 Problem Statement
+
+## 🧠 Project Solution
+
+### 🔍 Problem Statement
 E-commerce platforms like Amazon receive thousands of customer reviews. Manually analyzing this data is time-consuming, and businesses may miss critical customer feedback or trends.
 
-✅ Solution Overview
-This project provides an end-to-end Sentiment Analysis Dashboard using Natural Language Processing (NLP) and visualization tools to analyze customer reviews and extract valuable business insights.
+---
 
-💡 Key Features
-🔎 Sentiment Classification
-Automatically classifies each review into Positive, Negative, or Neutral using TextBlob, providing a quick snapshot of customer satisfaction.
+### ✅ Solution Overview
+This project provides an end-to-end **Sentiment Analysis Dashboard** using Natural Language Processing (NLP) and visualization tools to analyze customer reviews and extract valuable business insights.
 
-📈 Sentiment Trend Analysis
-Tracks how customer sentiment has changed over time, helping businesses monitor the effects of updates, launches, or seasonal factors.
+---
 
-📊 Most Reviewed Products
-Identifies the top 10 most-reviewed products, allowing businesses to recognize customer interest or spot recurring issues.
+### 💡 Key Features
 
-☁️ Keyword Insights (Word Cloud)
-Extracts and visualizes the most common words used in reviews, highlighting what customers frequently talk about — such as taste, delivery, or packaging.
+- **🔎 Sentiment Classification**  
+  Automatically classifies each review into **Positive**, **Negative**, or **Neutral** using `TextBlob`, providing a quick snapshot of customer satisfaction.
 
-📌 Business Impact
-Save time by automating review analysis.
+- **📈 Sentiment Trend Analysis**  
+  Tracks how customer sentiment has changed over time, helping businesses monitor the effects of updates, launches, or seasonal factors.
 
-Discover key themes and issues directly from customers.
+- **📊 Most Reviewed Products**  
+  Identifies the top 10 most-reviewed products, allowing businesses to recognize customer interest or spot recurring issues.
 
-Make data-driven product decisions.
+- **☁️ Keyword Insights (Word Cloud)**  
+  Extracts and visualizes the most common words used in reviews, highlighting what customers frequently talk about — such as **taste**, **delivery**, or **packaging**.
 
-Enhance customer satisfaction by addressing negative sentiment quickly
+---
 
-📊 How to Run the Project
+### 📌 Business Impact
+
+- ⏱️ Save time by automating review analysis.
+- 🧠 Discover key themes and issues directly from customers.
+- 📊 Make data-driven product decisions.
+- 😊 Enhance customer satisfaction by addressing negative sentiment quickly.
+
+
+## 📊 How to Run the Project
 1. Install required libraries:
    ```sh
    pip install pandas numpy matplotlib seaborn textblob
