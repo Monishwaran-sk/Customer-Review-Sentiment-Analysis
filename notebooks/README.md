@@ -1,8 +1,8 @@
-📓 Notebooks
+## 📓 Notebooks
 
 This folder contains the Jupyter Notebook used for the **Customer Review Sentiment Analysis** project.
 
-📘 Notebook Description
+### 📘 Notebook Description
 
 | Notebook File                             | Description |
 |------------------------------------------|-------------|
@@ -15,7 +15,7 @@ This folder contains the Jupyter Notebook used for the **Customer Review Sentime
 - Matplotlib & Seaborn for data visualization
 - WordCloud for review insights
 
-🧠 The notebook helps explore:
+### 🧠 The notebook helps explore:
 - Overall sentiment of reviews
 - Trends over time
 - Product popularity
